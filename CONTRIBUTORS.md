@@ -30,6 +30,6 @@ Time Zone: CDT
 github: muckitymuck
 
 ## Nirmal Patel
-He/him
 Discord: Neal#4362
 Time Zone: CST
+GitHub:Patelnk687
